@@ -1,13 +1,18 @@
 {
-  "title": "NTC-Sm@rt Overview",
+  "intro_description": "NTC-Sm@rt is an advanced next-gen smart IoT prayer system engineered by Wahda Tech, offering seamless Wi-Fi connectivity, automated multi-timezone Azan alarms, and high-precision GPS synchronization.",
   "tagline": "The Next-Gen Smart IoT Prayer Clock",
   "image_url": "https://raw.githubusercontent.com/amchudiya555/Qiyada_assets_for_ntc_smart/main/ntc_smart_image.png",
   "features": [
-    "Advanced Wi-Fi & Smart App Control",
-    "Automated Multi-Timezone Azan Alarms",
-    "High-Precision GPS & NTP Time Synchronization",
-    "Custom Audio Alerts & MP3 Support"
+    "Advanced Wi-Fi & smart app control",
+    "Automated multi-timezone Azan alarms",
+    "High-precision GPS & NTP time synchronization",
+    "Custom audio alerts and MP3 support"
   ],
+  "technicals": {
+    "Operating Voltage": "180–240V A.C.",
+    "Power": "8 Watt",
+    "Frequency": "50/60 Hz"
+  },
   "firmware": {
     "version": "1.0.2",
     "bin_url": "https://raw.githubusercontent.com/amchudiya555/qiyada-firmware/main/ntc_smart_v1.0.2.bin"
