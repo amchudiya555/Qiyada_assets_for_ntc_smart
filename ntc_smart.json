@@ -1,0 +1,15 @@
+{
+  "title": "NTC-Sm@rt Overview",
+  "tagline": "The Next-Gen Smart IoT Prayer Clock",
+  "image_url": "https://raw.githubusercontent.com/amchudiya555/qiyada-assets/main/ntc_smart.png",
+  "features": [
+    "Advanced Wi-Fi & Smart App Control",
+    "Automated Multi-Timezone Azan Alarms",
+    "High-Precision GPS & NTP Time Synchronization",
+    "Custom Audio Alerts & MP3 Support"
+  ],
+  "firmware": {
+    "version": "1.0.2",
+    "bin_url": "https://raw.githubusercontent.com/amchudiya555/qiyada-firmware/main/ntc_smart_v1.0.2.bin"
+  }
+}
